@@ -1,7 +1,7 @@
 # AquaNode Kepri - Smart Aquaculture IoT
 
 **Disusun Oleh:**
-* **Nama:** Rifqi
+* **Nama:** M Rifqi Ardhana
 * **NIM:** 2422047
 * **Program Studi:** Teknik Komputer
 * **Institusi:** Institut Teknologi Batam (ITEBA)
